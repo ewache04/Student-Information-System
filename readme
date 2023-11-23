@@ -1,0 +1,32 @@
+Certainly! Here's a simple README for your Python script:
+
+---
+
+# Student Information System
+
+## Description
+
+This Python script implements a simple Student Information System using classes and inheritance. It prompts the user to input student details and academic information and displays the gathered information along with a student transcript.
+
+## Usage
+
+1. Run the script in a Python environment.
+2. Follow the prompts to enter student details (first name, middle name, last name, age, ID number, phone number, home address) and academic information (major, credit number, overall GPA).
+3. The script will display the entered student information and transcript.
+
+## Files
+
+- **student_info_system.py**: The main Python script implementing the Student Information System.
+
+## Author
+
+Jeremiah E. Ochepo
+
+## Last Updated
+
+Date: 8/26/19
+
+---
+
+Replace `[Last Updated Date]` with the actual last updated date of your script.
+Feel free to add more sections or details based on your preferences.
